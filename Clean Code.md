@@ -530,6 +530,7 @@ Lalu seperti apa comment yang baik itu ?
 ## Error Handling
 
 1. Use exceptions rather than return codes
+   
    **Bad**
 
    ```java
@@ -582,9 +583,3 @@ Lalu seperti apa comment yang baik itu ?
        }
    }
    ```
-
-   
-
-2. Dont return null
-
-3. Dont pass null
